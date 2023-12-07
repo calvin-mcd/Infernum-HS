@@ -4,7 +4,7 @@ Hotswap PCB version of Haizeus' Infernum keyboard
 
 ## Layout
 
-![](https://github.com/calvin-mcd/Infernum-HS/blob/main/Images/layout.png)
+![](https://github.com/calvin-mcd/Infernum-HS/blob/main/Images/KLE.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/f048307a62b63627cb998ec30d35d3b9)
 
