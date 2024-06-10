@@ -6,11 +6,11 @@ Hotswap PCB version of Haizeus' Infernum keyboard
 
 ![](https://github.com/calvin-mcd/Infernum-HS/blob/main/Images/KLE.png)
 
-[Link](http://www.keyboard-layout-editor.com/#/gists/f048307a62b63627cb998ec30d35d3b9)
+[Link](http://www.keyboard-layout-editor.com/#/gists/d1b6c16b39b510e9a0bb42a346df7e24)
 
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and confirmed to work. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
 
 ## License
 
