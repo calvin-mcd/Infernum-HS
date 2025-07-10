@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Ariamelon-Connector")(type "KiCad")(uri "1 Ariamelon-Connector C:/Users/viva-/Documents/GitHub/libraries/Ariamelon-Kicad-Master-Library-main/Ariamelon-Connector.pretty KiCad")(options "")(descr ""))
+  (lib (name "Ariamelon-Package")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Ariamelon-Kicad-Master-Library-main/Ariamelon-Package.pretty")(options "")(descr ""))
+  (lib (name "Ariamelon-Breakout")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/Ariamelon-Kicad-Master-Library-main/Ariamelon-Breakout.pretty")(options "")(descr ""))
+)
